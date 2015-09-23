@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/13501363/how-to-pause-and-wait-for-command-input-in-a-python-script
+
+
+http://askubuntu.com/questions/202355/how-to-play-a-fixed-frequency-sound-using-python
